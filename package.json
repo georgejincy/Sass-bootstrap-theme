@@ -18,6 +18,7 @@
   "homepage": "https://github.com/georgejincy/Sass-bootstrap-theme#readme",
   "dependencies": {
     "bootstrap-sass": "^3.3.7",
+    "fontawesome": "^4.7.2",
     "jquery": "^3.1.1"
   }
 }
