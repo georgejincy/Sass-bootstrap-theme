@@ -1,0 +1,23 @@
+{
+  "name": "sass-bootstrap",
+  "version": "0.1.0",
+  "description": "A sass bootstrap theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgejincy/Sass-bootstrap-theme.git"
+  },
+  "author": "Jincy George",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgejincy/Sass-bootstrap-theme/issues"
+  },
+  "homepage": "https://github.com/georgejincy/Sass-bootstrap-theme#readme",
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "jquery": "^3.1.1"
+  }
+}
