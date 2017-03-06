@@ -4907,12 +4907,12 @@ button.list-group-item-danger {
   border-color: #ddd; }
   .panel-default > .panel-heading {
     color: #333333;
-    background-color: #f5f5f5;
+    background-color: #a4595f;
     border-color: #ddd; }
     .panel-default > .panel-heading + .panel-collapse > .panel-body {
       border-top-color: #ddd; }
     .panel-default > .panel-heading .badge {
-      color: #f5f5f5;
+      color: #a4595f;
       background-color: #333333; }
   .panel-default > .panel-footer + .panel-collapse > .panel-body {
     border-bottom-color: #ddd; }
@@ -8138,7 +8138,7 @@ button.close {
     font-size: 18px; }
 
 .showcase {
-  background: url("../images/showcase.jpeg") no-repeat;
+  background: url("../images/showcase.jpeg") no-repeat 0 -100px;
   height: 600px;
   padding: 30px 0; }
   .showcase .container {
@@ -8153,5 +8153,36 @@ button.close {
   color: #ffffff; }
   .section-a .fa {
     font-size: 60px; }
+
+.section-b {
+  background: #e6ebf1;
+  padding: 30px 0; }
+  .section-b img {
+    width: 100%; }
+
+.panel-heading h4 {
+  color: #ffffff; }
+
+.section-c {
+  padding: 60px 0;
+  text-align: center;
+  background: #a4595f;
+  color: #ffffff; }
+  .section-c .btn-primary {
+    background: #83474c; }
+
+.title-bar {
+  background: url("../images/showcase.jpeg") no-repeat 0 -300px;
+  padding-bottom: 10px;
+  border-bottom: 4px solid #a4595f;
+  color: #ffffff; }
+
+.main {
+  margin-top: 30px; }
+
+.footer {
+  padding: 25px 0;
+  background: #83474c;
+  color: #ffffff; }
 
 /*# sourceMappingURL=app.css.map */
